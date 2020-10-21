@@ -14,4 +14,27 @@
    
    
 Но десятка сказала, что я лох, поэтому создать нового пользователя мне не удалось  
-![](https://user-images.githubusercontent.com/70691206/96772954-8a64bf00-13ec-11eb-862e-d5017a806286.gif)
+![](https://user-images.githubusercontent.com/70691206/96772954-8a64bf00-13ec-11eb-862e-d5017a806286.gif)  
+    
+    
+    
+    
+    
+![задание](https://user-images.githubusercontent.com/70691206/96778166-eb43c580-13f3-11eb-91d5-d0bf934f4f73.jpg)  
+Это задание не могу выполнить по причине, указанной выше    
+    
+    
+    
+    
+    
+.  
+    
+    
+    
+    
+    
+.
+
+
+
+
