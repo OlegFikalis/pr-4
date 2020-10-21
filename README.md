@@ -1,6 +1,7 @@
 ![задание](https://user-images.githubusercontent.com/70691206/96773266-ee878300-13ec-11eb-914a-f2052f18d612.jpg)  
    
 Создал я и папку, и документ в папке, содержащий мои ФИО, дату выполнения и даже группу  
+![Без имени-1](https://user-images.githubusercontent.com/70691206/96774014-10353a00-13ee-11eb-8f3e-16b34408c1ed.jpg)  
    
    
    
