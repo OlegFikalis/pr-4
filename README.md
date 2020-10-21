@@ -2,11 +2,11 @@
    
 Создал я и папку, и документ в папке, содержащий мои ФИО, дату выполнения и даже группу  
 ![Без имени-1](https://user-images.githubusercontent.com/70691206/96774014-10353a00-13ee-11eb-8f3e-16b34408c1ed.jpg)  
-   
-   
-   
-   
-   
+    
+    
+    
+    
+    
 ![задание](https://user-images.githubusercontent.com/70691206/96773678-8d13e400-13ed-11eb-8d1b-514a6003918a.jpg)  
    
 ![](https://user-images.githubusercontent.com/70691206/96753401-8038c580-13d8-11eb-8e0b-815e821c6ce9.jpg)  
