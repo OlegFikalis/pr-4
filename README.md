@@ -21,7 +21,7 @@
     
     
 __Шифрование__  
-![ezgif-7-250ffc913f9b](https://user-images.githubusercontent.com/70691206/100527528-4c756a80-31e4-11eb-9565-dfa466eaadf6.gif)  
+![да-да](https://user-images.githubusercontent.com/70691206/100528076-c3f9c880-31e9-11eb-8d73-e3dd6f10c36f.gif)  
     
     
     
