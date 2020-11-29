@@ -26,14 +26,19 @@ __Шифрование__   *(на виртуалку накатил прошку
     
     
     
+__Теперь разберемся с Верочкой__    
+   
+кодировка прошла успешно
+![image](https://user-images.githubusercontent.com/70691206/100538307-fafac900-323f-11eb-9320-a566ddca40e4.png)      
     
-
-    
-    
-    
-    
-.
-
-
-
+Ход работы  
+   
+![image](https://user-images.githubusercontent.com/70691206/100538047-6b084f80-323e-11eb-82b8-d728eff2a10f.png)  
+![image](https://user-images.githubusercontent.com/70691206/100538079-9428e000-323e-11eb-90c3-482b056146a9.png)  
+![image](https://user-images.githubusercontent.com/70691206/100538152-fd105800-323e-11eb-8274-6532019e3f51.png)  
+![image](https://user-images.githubusercontent.com/70691206/100538175-1f09da80-323f-11eb-9b7e-4cdf9a5ba2f2.png)  
+![image](https://user-images.githubusercontent.com/70691206/100538198-3e086c80-323f-11eb-984b-27207c697f33.png)  
+![image](https://user-images.githubusercontent.com/70691206/100538229-7b6cfa00-323f-11eb-9799-332e7e75c453.png)  
+![image](https://user-images.githubusercontent.com/70691206/100538235-8e7fca00-323f-11eb-9c90-ec518af0f1d7.png)  
+![image](https://user-images.githubusercontent.com/70691206/100538248-a8211180-323f-11eb-914d-8964bccc44ef.png)  
 
